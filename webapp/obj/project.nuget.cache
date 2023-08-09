@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JmlKzOzNamY1tPGBm6ECP3FXfOMa6iz73l0wA8mVWVURb5rUPCguO2BnTHOLurDcg4DTp6BzDO/PyVQlhl/5vA==",
+  "success": true,
+  "projectFilePath": "C:\\SAMPLE01\\webapp\\webapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pshopov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\pshopov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\pshopov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\pshopov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+C:\SAMPLE01\webapp\bin\Release\netcoreapp3.1\publish\webapp.exe
+C:\SAMPLE01\webapp\bin\Release\netcoreapp3.1\publish\appsettings.Development.json
+C:\SAMPLE01\webapp\bin\Release\netcoreapp3.1\publish\appsettings.json
+C:\SAMPLE01\webapp\bin\Release\netcoreapp3.1\publish\webapp.dll
+C:\SAMPLE01\webapp\bin\Release\netcoreapp3.1\publish\webapp.deps.json
+C:\SAMPLE01\webapp\bin\Release\netcoreapp3.1\publish\webapp.runtimeconfig.json
+C:\SAMPLE01\webapp\bin\Release\netcoreapp3.1\publish\webapp.pdb
